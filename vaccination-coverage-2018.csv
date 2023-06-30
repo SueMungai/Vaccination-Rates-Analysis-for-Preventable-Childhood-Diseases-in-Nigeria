@@ -1,0 +1,191 @@
+state,vaccine,total
+Abia,Any,95.5
+Abia,Measles,86.4
+Abia,Penta 1,95.5
+Abia,Penta 2,90.9
+Abia,Penta 3,86.4
+Adamawa,Any,83.5
+Adamawa,Measles,68.4
+Adamawa,Penta 1,69.9
+Adamawa,Penta 2,63.2
+Adamawa,Penta 3,51.9
+Akwa Ibom,Any,83.5
+Akwa Ibom,Measles,63.5
+Akwa Ibom,Penta 1,81.2
+Akwa Ibom,Penta 2,81.2
+Akwa Ibom,Penta 3,65.9
+Anambra,Any,96.2
+Anambra,Measles,77.2
+Anambra,Penta 1,91.1
+Anambra,Penta 2,86.1
+Anambra,Penta 3,81
+Bauchi,Any,65.9
+Bauchi,Measles,54.5
+Bauchi,Penta 1,52.8
+Bauchi,Penta 2,48.3
+Bauchi,Penta 3,41.5
+Bayelsa,Any,76.7
+Bayelsa,Measles,51.7
+Bayelsa,Penta 1,60
+Bayelsa,Penta 2,53.3
+Bayelsa,Penta 3,41.7
+Benue,Any,84.4
+Benue,Measles,60.4
+Benue,Penta 1,62.5
+Benue,Penta 2,55.2
+Benue,Penta 3,40.6
+Borno,Any,66.7
+Borno,Measles,54.6
+Borno,Penta 1,60.5
+Borno,Penta 2,57.1
+Borno,Penta 3,44.5
+Cross River,Any,89.4
+Cross River,Measles,75.3
+Cross River,Penta 1,89.4
+Cross River,Penta 2,87.1
+Cross River,Penta 3,81.2
+Delta,Any,93.8
+Delta,Measles,79.7
+Delta,Penta 1,84.4
+Delta,Penta 2,79.7
+Delta,Penta 3,73.4
+Ebonyi,Any,94
+Ebonyi,Measles,74.6
+Ebonyi,Penta 1,91
+Ebonyi,Penta 2,89.6
+Ebonyi,Penta 3,74.6
+Edo,Any,95.3
+Edo,Measles,87.5
+Edo,Penta 1,93.8
+Edo,Penta 2,90.6
+Edo,Penta 3,81.3
+Ekiti,Any,98.5
+Ekiti,Measles,92.3
+Ekiti,Penta 1,96.9
+Ekiti,Penta 2,95.4
+Ekiti,Penta 3,92.3
+Enugu,Any,94.9
+Enugu,Measles,79.7
+Enugu,Penta 1,88.1
+Enugu,Penta 2,86.4
+Enugu,Penta 3,83.1
+Federal Capital Territory,Any,89
+Federal Capital Territory,Measles,85.4
+Federal Capital Territory,Penta 1,87.8
+Federal Capital Territory,Penta 2,85.4
+Federal Capital Territory,Penta 3,80.5
+Gombe,Any,69.7
+Gombe,Measles,63
+Gombe,Penta 1,61.2
+Gombe,Penta 2,55.2
+Gombe,Penta 3,49.1
+Imo,Any,96.2
+Imo,Measles,86.8
+Imo,Penta 1,96.2
+Imo,Penta 2,94.3
+Imo,Penta 3,86.8
+Jigawa,Any,72.7
+Jigawa,Measles,62
+Jigawa,Penta 1,53.7
+Jigawa,Penta 2,49.5
+Jigawa,Penta 3,38
+Kaduna,Any,83.6
+Kaduna,Measles,68
+Kaduna,Penta 1,54.1
+Kaduna,Penta 2,51.6
+Kaduna,Penta 3,45.9
+Kano,Any,63.3
+Kano,Measles,49
+Kano,Penta 1,55.1
+Kano,Penta 2,47.6
+Kano,Penta 3,36.1
+Katsina,Any,34.4
+Katsina,Measles,15.8
+Katsina,Penta 1,27.3
+Katsina,Penta 2,20.1
+Katsina,Penta 3,12
+Kebbi,Any,53.6
+Kebbi,Measles,18.8
+Kebbi,Penta 1,35.4
+Kebbi,Penta 2,23.4
+Kebbi,Penta 3,19.3
+Kogi,Any,79.2
+Kogi,Measles,70.8
+Kogi,Penta 1,66.7
+Kogi,Penta 2,65.3
+Kogi,Penta 3,52.8
+Kwara,Any,73.8
+Kwara,Measles,63.1
+Kwara,Penta 1,57.1
+Kwara,Penta 2,53.6
+Kwara,Penta 3,46.4
+Lagos,Any,97.1
+Lagos,Measles,95.6
+Lagos,Penta 1,94.1
+Lagos,Penta 2,94.1
+Lagos,Penta 3,92.6
+Nasarawa,Any,88.2
+Nasarawa,Measles,67.1
+Nasarawa,Penta 1,82.4
+Nasarawa,Penta 2,77.6
+Nasarawa,Penta 3,58.8
+Niger,Any,80.9
+Niger,Measles,69.4
+Niger,Penta 1,49.2
+Niger,Penta 2,43.7
+Niger,Penta 3,33.3
+Nigeria,Any,79.3
+Nigeria,Measles,64.7
+Nigeria,Penta 1,69.9
+Nigeria,Penta 2,65.4
+Nigeria,Penta 3,57.2
+Ogun,Any,90
+Ogun,Measles,70
+Ogun,Penta 1,76.3
+Ogun,Penta 2,70
+Ogun,Penta 3,63.8
+Ondo,Any,98.1
+Ondo,Measles,85.2
+Ondo,Penta 1,87
+Ondo,Penta 2,81.5
+Ondo,Penta 3,72.2
+Osun,Any,99.9
+Osun,Measles,70.6
+Osun,Penta 1,98
+Osun,Penta 2,90.2
+Osun,Penta 3,86.3
+Oyo,Any,77.8
+Oyo,Measles,59.7
+Oyo,Penta 1,70.8
+Oyo,Penta 2,66.7
+Oyo,Penta 3,58.3
+Plateau,Any,88.4
+Plateau,Measles,71.1
+Plateau,Penta 1,81
+Plateau,Penta 2,74.4
+Plateau,Penta 3,55.4
+Rivers,Any,91.3
+Rivers,Measles,75.4
+Rivers,Penta 1,89.9
+Rivers,Penta 2,88.4
+Rivers,Penta 3,82.6
+Sokoto,Any,50
+Sokoto,Measles,23.7
+Sokoto,Penta 1,33.3
+Sokoto,Penta 2,26.9
+Sokoto,Penta 3,22.4
+Taraba,Any,81.7
+Taraba,Measles,66.1
+Taraba,Penta 1,77.1
+Taraba,Penta 2,70.6
+Taraba,Penta 3,56
+Yobe,Any,72.4
+Yobe,Measles,64.5
+Yobe,Penta 1,67.8
+Yobe,Penta 2,63.2
+Yobe,Penta 3,51.3
+Zamfara,Any,28.2
+Zamfara,Measles,20.4
+Zamfara,Penta 1,20.8
+Zamfara,Penta 2,17.1
+Zamfara,Penta 3,12
