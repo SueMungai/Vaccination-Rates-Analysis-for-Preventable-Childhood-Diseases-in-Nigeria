@@ -11,13 +11,13 @@ percent nationally and at least 80 percent in each state.
 The objective is to create client value by addressing the challenge of improving vaccination
 rates through data analysis and providing actionable recommendations.
 Specific Objectives
-● Conduct exploratory data analysis to gain a comprehensive understanding of the
+- Conduct exploratory data analysis to gain a comprehensive understanding of the
 vaccination rates.
-● Perform statistical analysis and identify patterns, trends and within the data and
+- Perform statistical analysis and identify patterns, trends and within the data and
 derive meaningful insights.
-● Create informative visualisations and present the insights in an understandable
+- Create informative visualisations and present the insights in an understandable
 manner.
-● Give sensible recommendations based on findings discovered when analysing the
+- Give sensible recommendations based on findings discovered when analysing the
 data.
 
 ## 2.Data Understanding
