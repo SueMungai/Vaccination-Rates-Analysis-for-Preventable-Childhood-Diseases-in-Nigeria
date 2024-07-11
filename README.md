@@ -7,7 +7,7 @@ progress in the 1980s and since then, the vaccination coverage has then stagnate
 goal is to make sure that all children under one year old are fully immunised at a rate of 90
 percent nationally and at least 80 percent in each state.
 
-###1.3 Objectives
+### 1.3 Objectives
 The objective is to create client value by addressing the challenge of improving vaccination
 rates through data analysis and providing actionable recommendations.
 Specific Objectives
