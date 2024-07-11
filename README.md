@@ -10,6 +10,7 @@ percent nationally and at least 80 percent in each state.
 ### 1.3 Objectives
 The objective is to create client value by addressing the challenge of improving vaccination
 rates through data analysis and providing actionable recommendations.
+
 Specific Objectives
 - Conduct exploratory data analysis to gain a comprehensive understanding of the
 vaccination rates.
